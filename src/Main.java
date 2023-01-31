@@ -22,6 +22,6 @@ public class Main {
         Car bmwZ8 = new Car("BMW", "Z8", 2021, "Германия", "Черный", 3.0);
         Car kiaSportage = new Car("Kia", "Sportage 4-го поколения", 2018, "Южная Корея", "Красный", 2.4);
         Car hyundaiAvante = new Car("Hyundai", "Avante", 2016, "Южная Корея", "Оранжевый", 1.6);
-      //printCar();
+        System.out.println(audiA8 + "\n" + ladaGranta);
     }
 }
